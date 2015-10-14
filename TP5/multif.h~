@@ -1,0 +1,3 @@
+typedef int (*funct_t) int;
+
+int multf(funct_t f[], int args[], int n);
